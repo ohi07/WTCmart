@@ -1,0 +1,8 @@
+{
+  "name": "WTCmart",
+  "description": "WTCmart - Bangladesh's leading computer hardware and technology retailer e-commerce platform with PC Builder, bKash/Nagad/SSLCommerz payments, rate-limited AI chatbot, sheet sync automation, and WhatsApp/Messenger support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
